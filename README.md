@@ -1,7 +1,7 @@
 # 🏗️ National Infrastructure Projects — Budget Variance & Overrun Analysis — SQL Server & Power BI
 
 ## 📌 Project Overview
-**End-to-end budget variance analysis of the data of 5,000 national infrastructure projects across Saudi Arabia** — from SQL Server validation, joins, and risk-classification views to an interactive Power BI dashboard, uncovering exactly where cost overruns are concentrated and why.
+**This project analyzes 5,000 national infrastructure projects across Saudi Arabia (371.23 bn SAR planned cost)** to find where budget overruns are concentrated, so leadership can review the projects that matter most. It uncovers that costs closed **30.1% (111.73 bn SAR) over plan**, that **36.5% of projects (those over 20% overrun) cause 86% of the project-level overrun**, and that **delayed projects overran by 24.9% compared with 5.2% for on-time projects**. It provides a targeted review plan: holding the high-risk projects to a 20% overrun would have cut the net project overrun by about **45%**.
 
 ## The Analysis Covers:
 - [Business Problem](#business-problem)
